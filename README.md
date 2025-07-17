@@ -20,7 +20,9 @@
 
 ## 🎮 Скриншоты
 
-> (Здесь можно добавить скриншоты игрового процесса.)
+<img width="1270" height="575" alt="image" src="https://github.com/user-attachments/assets/d713b60b-dc28-4ff8-8764-1971f6710c31" />
+<img width="1244" height="574" alt="image" src="https://github.com/user-attachments/assets/fa0ffc68-a90d-4925-8d5d-232fe2173920" />
+
 
 ---
 
